@@ -1,7 +1,7 @@
 applications:
 - name: tracker-timesheets
   path: ./applications/timesheets-server/build/libs/timesheets-server.jar
-  host: rstb-timesheets-pal-INITIALS
+  host: rstb-timesheets-pal-rstb
   memory: 1G
   instances: 1
   env:
